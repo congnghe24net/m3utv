@@ -70,10 +70,10 @@ https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/chunklist_b1692000.m
 https://code.vthanhtivi.pw/getlink/tv360/2380/2.m3u8
  
 #EXTINF:-1 group-title="Thể Thao" tvg-id="vtvcab3hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsport6.jpg", ON Sports HD
-https://hqth.me/Vtvcab3khichtivim3u8
+https://code.vthanhtivi.pw/getlink/vieon2/89f1fba0983695cb6cb62c19ebc5bbbdd2c26ffb/1688193270/vtvcab3-on-sports/playlist.m3u8
 
 #EXTINF:-1 group-title="Thể Thao" tvg-id="vtvcab6hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportcong2.jpg", ON Sports+ HD
-https://hqth.me/Vtvcap6khichtv
+https://code.vthanhtivi.pw/getlink/vieon2/89f1fba0983695cb6cb62c19ebc5bbbdd2c26ffb/1688193270/vtvcab6-on-sport-plus/playlist.m3u8
 
 #EXTINF:-1 group-title="Thể Thao" tvg-id="vtvcab18hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsportnew1.jpg", ON Sports New HD
 https://hqth.me/Vtvcap18khichtv
