@@ -42,7 +42,7 @@ https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist.m3u8
 https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_antv_165655612485.png", ANTV
-https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b2500000.m3u8
+https://live-ali4.tv360.vn/manifest/ANTV_SPR/playlist_360p.m3u8
 
 #EXTINF:-1 tvg-id="nhandan" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_165655731781.png", Nhân Dân TV
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
@@ -63,7 +63,7 @@ https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
 
 
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc1_165649330987.png", VTC1
-https://livecdn.fptplay.net/hda1/vtc1_hls.smil/chunklist_b2500000.m3u8
+https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vtc2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc2_165649331982.png", VTC2
 https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
@@ -180,10 +180,10 @@ https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_165657384745.png", THVL1
-https://livecdn.fptplay.net/hda1/vinhlong1_2000.stream/chunklist.m3u8
+https://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_165657385615.png", THVL2
-https://livecdn.fptplay.net/hda2/vinhlong2_2000.stream/chunklist.m3u8
+https://live-zlr1.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_165657386388.png", THVL3
 https://livecdn.fptplay.net/hda2/vinhlong3_2000.stream/chunklist.m3u8
