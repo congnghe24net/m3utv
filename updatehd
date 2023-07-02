@@ -48,10 +48,10 @@ https://live-ali4.tv360.vn/manifest/ANTV_SPR/playlist_360p.m3u8
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w1011524230.m3u8
 
 #EXTINF:-1 tvg-id="quochoi" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_165656647452.png", Quốc Hội
-https://vips-livecdn.fptplay.net/hda1/quochoivn_2000.stream/chunklist.m3u8
+https://media.quochoitv.vn/live/qhtv_720p/chunklist_b1628000.m3u8
 
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-phong-vn_165647856201.png", Quốc Phòng VN
-https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_2000.stream/chunklist.m3u8
+http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_w1556214191_b996000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="vnews" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thong-tan-xa-viet-nam_165649329873.png", VNews - TTXVN
 https://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b2500000.m3u8
@@ -185,10 +185,10 @@ https://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
 https://live-zlr1.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_165657386388.png", THVL3
-https://livecdn.fptplay.net/hda2/vinhlong3_2000.stream/chunklist.m3u8
+http://live-ali2.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_165657387754.png", THVL4
-https://livecdn.fptplay.net/hda3/vinhlong4hd_2000.stream/chunklist.m3u8
+http://live-ali2.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8
 
 
 
