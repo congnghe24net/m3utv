@@ -45,8 +45,7 @@ https://cecex9g5cpliv.vcdn.cloud/live/smil:HN2.smil/chunklist.m3u8
 https://live-ali4.tv360.vn/manifest/ANTV_SPR/playlist_360p.m3u8
 
 #EXTINF:-1 tvg-id="nhandan" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_truyen-hinh-nhan-dan_165655731781.png", Nhân Dân TV
-https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
-#https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="quochoi" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_quoc-hoi-hd_165656647452.png", Quốc Hội
 https://vips-livecdn.fptplay.net/hda1/quochoivn_2000.stream/chunklist.m3u8
