@@ -13,7 +13,7 @@ https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
 
 #EXTINF:-1 tvg-id="vtv5hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_165657382858.png", VTV5
-http://live.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-720P-167M.m3u8
+https://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_165657382858.png", VTV5 Tây Nam Bộ
 https://livecdn-vthn-vnw.vieon.vn/vtc/free_live/hd_vtv5_tnb/TV_HD/hd_vtv5_tnb_720p/chunks.m3u8
