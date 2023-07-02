@@ -68,19 +68,19 @@ https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 https://iplogger.com/196VTC2hdkhichtivi.m3u8
 
 #EXTINF:-1 tvg-id="vtc3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc3-hd_165649332864.png", VTC3
-https://vcdn2.vtc.gov.vn:8443/GeoIP/vtc3_sd.stream_720p/chunklist_w1614967843.m3u8
+https://iplogger.com/VTC3vieonkhichtivi
 
 #EXTINF:-1 tvg-id="vtc4hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_yeah1-family-vtc4_165649693777.png", VTC4
-https://livecdn.fptplay.net/hda2/vtc4_2000.stream/chunklist.m3u8
+https://iplogger.com/198VTC4hdvbkhichtivi.m3u8
 
 #EXTINF:-1 tvg-id="vtc5hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc5_165649694634.png", VTC5
-https://livecdn.fptplay.net/sdb/vtc5_2000.stream/chunklist.m3u8
+https://iplogger.com/199VTC5hdvbkhichtivi.m3u8
 
 #EXTINF:-1 tvg-id="vtc6hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc6_165649433827.png", VTC6
-https://livecdn.fptplay.net/sdb/vtc6_2000.stream/chunklist.m3u8
+https://iplogger.com/200VTC6hdvbkhichtivi.m3u8
 
 #EXTINF:-1 tvg-id="vtc7hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_todaytv-vtc7_165649695627.png", VTC7 - TodayTV
-https://livecdn.fptplay.net/sdb/todaytv_2000.stream/chunklist.m3u8
+https://iplogger.com/201VTC7hdKhichtivi.m3u8
 
 #EXTINF:-1 tvg-id="vtc8" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc8_165649434543.png", VTC8
 https://livecdn.fptplay.net/sdb/vtc8_2000.stream/chunklist.m3u8
