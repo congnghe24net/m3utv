@@ -202,6 +202,9 @@ https://code.vthanhtivi.pw/getlink/tv360/175/0.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsport6.jpg", ON Sports - VTVCab3
 https://hqth.me/Vtvcab3khichtivim3u8
 
+#EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsport6.jpg", ON Sports Eng
+https://liveh12.vtvcab.vn/hls/ONSPORTTA/03.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab4hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onsport6.jpg", ON Movies - VTVCab4
 https://code.vthanhtivi.pw/getlink/mytv/435/hd.m3u8
 
