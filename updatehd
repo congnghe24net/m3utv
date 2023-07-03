@@ -309,7 +309,10 @@ https://livecdn.fptplay.net/sdc/danang1_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/danang2_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="daklak" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dak-lak_165655700424.png", Đắk Lắk
-https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+https://live.drt.vn/drtlive/tv1live-transmux.m3u8
+
+#EXTINF:-1 tvg-id="daknong" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ys472buj_dak_nong.png", Đắk Nông
+https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dienbien" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_165655822623.png", Điện Biên
 https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
