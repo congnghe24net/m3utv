@@ -315,52 +315,58 @@ https://live.drt.vn/drtlive/tv1live-transmux.m3u8
 https://ngvauezm51liv.vcdn.cloud/live/smil:daknong.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dienbien" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dien-bien_165655822623.png", Điện Biên
-https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 
 #EXTINF:-1 tvg-id="dongnai1" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-1_165647580636.png", Đồng Nai 1
-https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="dongnai2" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-2_165647581958.png", Đồng Nai 2
-https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="dongthap" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-thap_165655753932.png", Đồng Tháp
-https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="dongnai3" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/01/29/bttzmz2f_dongnai3.png", Đồng Nai 3
+https://hqth.me/KhichTV123456dongnai3
+
+#EXTINF:-1 tvg-id="dongthap" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/15/ijdemqaa_dongthap1.png", Đồng Tháp 1
+http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="dongthap" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/15/ar7my9t1_dongthap2.png", Đồng Tháp 2
+http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_gia-lai_165655889103.png", Gia Lai
-https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
 
 #EXTINF:-1 tvg-id="hagiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-giang_16564760361.png", Hà Giang
-https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 
-#EXTINF:-1 tvg-id="hanam" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-nam_165655890147.png", Hà Nam
-https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="hanam" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/gimw30y2_ha_nam.png", Hà Nam
+http://103.90.220.236/thhnlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="hatinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ha-tinh_165655826237.png", Hà Tĩnh
-https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="haiduong" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-duong_165649258755.png", Hải Dương
-https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=medium&type=tv&token=gSTbcZR03r352niGuuUCig&time=1591151021&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1591064621734&pkg=pkg11.hni
 
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_165655891473.png", Hải Phòng
-https://livecdn.fptplay.net/sdc/haiphong_hls.smil/chunklist_b2500000.m3u8
+https://on.thhp.vn/thplive/tv1live-transmux.m3u8
 
 #EXTINF:-1 tvg-id="haiphong" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hai-phong_165655891473.png", Hải Phòng +
-https://live.thhp.vn/hls/thpplus/index.m3u8
+https://mediatech.vncdn.vn//thplive/tv2live-transmux.m3u8
 
 #EXTINF:-1 tvg-id="haugiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hau-giang_165655824967.png", Hậu Giang
-https://livecdn.fptplay.net/sda/haugiang_hls.smil/chunklist_b2500000.m3u8
+https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w819569343.m3u8
 
 #EXTINF:-1 tvg-id="hoabinh" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hoa-binh_165655705655.png", Hoà Bình
-https://livecdn.fptplay.net/sda/hoabinh_hls.smil/chunklist_b2500000.m3u8
+https://hbtvlive.3ssoft.vn/hoabinhtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="hungyen" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hung-yen_165649316692.png", Hưng Yên
-https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
+http://103.90.220.236/hytvlive/tv1live.m3u8
 
 #EXTINF:-1 tvg-id="khanhhoa" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_khanh-hoa_165655831351.png", Khánh Hòa
-https://livecdn.fptplay.net/sda/khanhhoa_hls.smil/chunklist_b2500000.m3u8
+https://tv.ktv.org.vn/ktv.m3u8
 
 #EXTINF:-1 tvg-id="kiengiang" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kien-giang_165649317611.png", Kiên Giang
-https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
+https://iplogger.com/22kiengiang1hdvbktv.m3u8
 
 #EXTINF:-1 tvg-id="kontum" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kon-tum_165655832697.png", Kon Tum
 https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
