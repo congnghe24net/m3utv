@@ -235,8 +235,11 @@ https://livecdn.fptplay.net/sdb/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onmusic1.jpg", ON Music - VTVCab15
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab15/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onfootball3.jpg", ON Football HD - VTVCab16
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onfootball3.jpg", ON Football - VTVCab16
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:VTVCAB16.smil/chunklist_b1692000.m3u8
+
+#EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onfootball3.jpg", ON Football Eng
+https://liveh12.vtvcab.vn/hls/ONFOOTBALLTA/03.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab17hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/ontredingvuong1.jpg", ON Trending - VTVCab17
 https://code.vthanhtivi.pw/getlink/tv360/186/0.m3u8
