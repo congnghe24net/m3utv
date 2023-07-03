@@ -16,7 +16,7 @@ https://code.vthanhtivi.pw/getlink/mytv/378/hd.m3u8
 https://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_165657382858.png", VTV5 Tây Nam Bộ
-https://livecdn-vthn-vnw.vieon.vn/vtc/free_live/hd_vtv5_tnb/TV_HD/hd_vtv5_tnb_720p/chunks.m3u8
+https://code.vthanhtivi.pw/getlink/mytv/615/hd.m3u8 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtv5-hd_165657382858.png", VTV5 Tây Nguyên
 https://livecdn-vthn-vnw.vieon.vn/vtc/free_live/hd_vtv5_tn/TV_HD/hd_vtv5_tn_720p/chunks.m3u8
@@ -250,7 +250,8 @@ https://code.vthanhtivi.pw/getlink/mytv/201/hd.m3u8
 https://code.vthanhtivi.pw/getlink/tv360/187/0.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab21hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onkids5.jpg", ON Kids - VTVCab21
-https://code.vthanhtivi.pw/getlink/tv360/179/2.m3u8
+http://sg.tinchuanchuaanh.com:8080/CARTOON_NETWORK_HD/tracks-v1a1/mono.m3u8
+#https://code.vthanhtivi.pw/getlink/tv360/179/2.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab22hd" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onlife1.jpg", ON Life - VTVCab22
 https://code.vthanhtivi.pw/getlink/vieon/vtvcab22-life-tv/playlist.m3u8
