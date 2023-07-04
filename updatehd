@@ -338,6 +338,9 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 https://hqth.me/KhichTV123456dongnai3
 
 #EXTINF:-1 tvg-id="dongthap" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/15/ijdemqaa_dongthap1.png", Đồng Tháp 1
+https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w451468060.m3u8
+
+#EXTINF:-1 tvg-id="dongthap" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/15/ijdemqaa_dongthap1.png", Đồng Tháp 1 HD
 http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="dongthap" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/15/ar7my9t1_dongthap2.png", Đồng Tháp 2
