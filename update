@@ -633,10 +633,7 @@ https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/chunklist_b1692000.m3u8
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="animalhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_165649272197.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=589
-https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
+http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="bbcearth" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-earth_165649223671.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -684,7 +681,7 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 https://sglivevega.kplus.vn/bpk-tv/prod_history/default/index.mpd
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="kbsworld" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kbs-world_165655726411.png", KBS World HD
-https://vips-livecdn.fptplay.net/hda3/kbs_vhls.smil/chunklist_b2500000.m3u8
+https://hqth.me/Khichtvkbsworld
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="kix" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_kix_16564931853.png", KIX HD
 https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-0-0.m3u8
@@ -722,26 +719,19 @@ https://vtsstr7.tv24.vn/live/Woman.smil/chunklist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="abcaustralia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_australia-plus_153051623532.png", ABC Australia HD
-https://ancom.ga/fpt/australia-plus/bitrate_5000.m3u8
-#https://tshift.fptplay.net/dvr/australiaplus_1000.stream/chunks_dvr_range-0-0.m3u8
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="bbcworldnews" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-news_165649290562.png", BBC World News HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=521
-https://s7773.cdn.mytvnet.vn/pkg20/live_dzones/bbcworldnews.smil/manifest.mpd
+https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="bloomberg" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bloomberg_165655620447.png", Bloomberg HD
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://code.vthanhtivi.pw/keys/mytv/?id=591
-https://s7768.cdn.mytvnet.vn/pkg20/live_dzones/bloomberg.smil/manifest.mpd
+https://live.corusdigitaldev.com/groupc/live/f191ef59-6c28-42ba-86d0-d47df5280249/live.isml/.m3u8
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="cgtn" tvg-logo="http://navi.1366.pro/up266/jpg/icon_channel_cgtn.jpg", CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="channelnewsasia" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_channel-newsasia_165649295091.png", Channel NewsAsia
-https://livecdn.fptplay.net/sdb/newsasia_hls.smil/chunklist_b2500000.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="CNN" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cnn_165647576261.png", CNN HD
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -753,13 +743,13 @@ https://s7768.cdn.mytvnet.vn/pkg20/live_dzones/cnn.smil/manifest.mpd
 https://subs-livecdn.fptplay.net/sdb/cnbc_2000.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="dw" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dw_165649234541.png", DW News HD
-https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b2500000.m3u8
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="france24eng" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_france-24_165649308045.png", France 24
-https://livecdn.fptplay.net/sdb/france24_hls.smil/chunklist_b2500000.m3u8
+http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="nhkworldhd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_nhk-world-hd_165655732823.png", NHK World HD
-https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b2500000.m3u8
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
 #EXTINF:-1 group-title="Kênh Quốc Tế" tvg-id="tv5monde" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_tv5-monde_165655762918.png", TV5 Monde Asie
 https://livecdn.fptplay.net/sdb/tv5_hls.smil/chunklist_b2500000.m3u8
