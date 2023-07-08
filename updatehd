@@ -180,16 +180,16 @@ https://livecdn.fptplay.net/sda/btv11_2000.stream/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_thvl1_165657384745.png", THVL1
-https://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_1080p.m3u8
+https://live-ali4.tv360.vn/manifest/Vinh_Long_1_HD/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_165657385615.png", THVL2
-https://live-zlr1.tv360.vn/manifest/VinhLong2_HD/playlist_1080p.m3u8
+https://live-ali2.tv360.vn/manifest/VinhLong2_HD/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_165657386388.png", THVL3
-http://live-ali2.tv360.vn/manifest/VinhLong3_HD/playlist_1080p.m3u8
+https://live-ali4.tv360.vn/manifest/VinhLong3_HD/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong4hd" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_165657387754.png", THVL4
-http://live-ali2.tv360.vn/manifest/VinhLong4_HD/playlist_1080p.m3u8?vkhichtv
+https://live-ali4.tv360.vn/manifest/VinhLong4_HD/playlist_720p.m3u8
 
 
 
